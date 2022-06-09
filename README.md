@@ -1,5 +1,5 @@
 # i3dotfiles
-my personal dotfiles grapped from multiple people and combined to my liking 
+i3 + polybar combo 
 
-for rofi styiling i use this github as my base with almost to non add configuration
+for rofi styiling i use this github as my base with almost to non add configuration (kde theme)
 https://github.com/adi1090x/rofi
